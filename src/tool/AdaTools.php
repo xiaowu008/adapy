@@ -16,7 +16,7 @@
  * Time: 16:38
  */
 
-namespace Sheng\Pay\tool;
+namespace Xiaowu008\Pay\tool;
 
 
 /**

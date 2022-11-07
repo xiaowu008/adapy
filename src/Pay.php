@@ -16,7 +16,7 @@
  * Time: 9:40
  */
 
-namespace Sheng\Pay;
+namespace Xiaowu008\Pay;
 
 /**
  * @name:支付

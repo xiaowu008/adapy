@@ -16,7 +16,7 @@
  * Time: 15:12
  */
 
-namespace Sheng\Pay\tool;
+namespace Xiaowu008\Pay\tool;
 
 /**
  * @name:请求

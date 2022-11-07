@@ -16,7 +16,7 @@
  * Time: 10:38
  */
 
-namespace Sheng\Pay\enum;
+namespace Xiaowu008\Pay\enum;
 
 
 class PayType

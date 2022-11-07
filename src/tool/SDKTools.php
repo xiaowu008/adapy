@@ -16,7 +16,7 @@
  * Time: 15:09
  */
 
-namespace Sheng\Pay\tool;
+namespace Xiaowu008\Pay\tool;
 
 
 class SDKTools extends Config

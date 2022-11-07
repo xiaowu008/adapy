@@ -16,10 +16,10 @@
  * Time: 10:28
  */
 
-namespace Sheng\Pay;
+namespace Xiaowu008\Pay;
 
 
-use Sheng\Pay\enum\PayType;
+use Xiaowu008\Pay\enum\PayType;
 
 class CheckParam
 {

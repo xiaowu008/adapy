@@ -1,6 +1,6 @@
 {
-    "name": "sheng/pay",
-    "description": "sheng",
+    "name": "xiaowu008/pay",
+    "description": "xiaowu008",
     "type": "library",
     "require": {
         "php": ">=7.1",
@@ -17,7 +17,7 @@
     },
     "authors": [
         {
-            "name": "sheng"
+            "name": "xiaowu008"
         }
     ],
     "minimum-stability": "dev"

@@ -16,7 +16,7 @@
  * Time: 15:00
  */
 
-namespace Sheng\Pay\tool;
+namespace Xiaowu008\Pay\tool;
 
 
 class Config

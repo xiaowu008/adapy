@@ -16,12 +16,12 @@
  * Time: 16:07
  */
 
-namespace Sheng\Pay;
+namespace Xiaowu008\Pay;
 
 
-use Sheng\Pay\tool\AdaTools;
-use Sheng\Pay\tool\Config;
-use Sheng\Pay\tool\Request;
+use Xiaowu008\Pay\tool\AdaTools;
+use Xiaowu008\Pay\tool\Config;
+use Xiaowu008\Pay\tool\Request;
 
 /**
  * @name:汇支付
